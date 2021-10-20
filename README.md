@@ -219,7 +219,7 @@ If you have any feedback, please reach out to me
 
 or
 
-use the [Discussions section](https://github.com/) in the repository.
+use the [Discussions section](https://github.com/Anushakrishnappa/Speech-Emotion-Using-Machine-Learning) in the repository.
 
   
 ## 🔗 Links
