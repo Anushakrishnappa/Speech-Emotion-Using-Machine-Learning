@@ -209,3 +209,23 @@ plot_histograms(classifiers=True)
 ![image](https://user-images.githubusercontent.com/85734808/138034600-1cd51eb5-f5d6-49fe-9cae-d98e272f7a66.png)
 
 <p align="center">A Histogram shows different algorithms metric results on different data sizes as well as time consumed to train/predict.</p>
+
+
+## Feedback
+
+If you have any feedback, please reach out to me 
+ 
+ anusha.bk828@gmail.com
+
+or
+
+use the [Discussions section](https://github.com/) in the repository.
+
+  
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-bk-b929b21b1/)
+
+
+
+
+
