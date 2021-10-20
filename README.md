@@ -217,9 +217,7 @@ If you have any feedback, please reach out to me
  
  anusha.bk828@gmail.com
 
-or
 
-use the [Discussions section](https://github.com/Anushakrishnappa/Speech-Emotion-Using-Machine-Learning) in the repository.
 
   
 ## 🔗 Links
